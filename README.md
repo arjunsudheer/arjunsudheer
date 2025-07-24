@@ -28,4 +28,4 @@ I'm a student at San Jose State University studying software engineering. My pas
 [Synthetic Malware Generation Based on Generative Models Against Zero Day Attacks](https://github.com/arjunsudheer/synthetic-malware-generation-based-on-generative-models-against-zero-day-attacks)
 
 ### Contact
-I am actively looking for summer 2026 internships. If you think I may be a good fit, please reach out to me via email at: [arjun.sudheer@sjsu.edu](mailto:arjun.sudheer@sjsu.edu).
+I am actively looking for summer 2026 internships. If you think I may be a good fit, please reach out to me via email at: [arjunsudheer05@outlook.com](mailto:arjunsudheer05@outlook.com).
