@@ -4,8 +4,6 @@
 
 # 👋 Hi, I'm Arjun
 
-## About Me
-
 I'm a senior Software Engineering student at San Jose State University graduating in May of 2027. I've interned at **Oracle Cloud Infrastructure** and **Cisco Systems** building agentic AI systems and full-stack tools, and I've published 3 peer-reviewed papers (IEEE x2, JSAN) on LLM-driven cybersecurity. My interests are in AI agents, backend development, and cybersecurity.
 
 ## Tech Stack
