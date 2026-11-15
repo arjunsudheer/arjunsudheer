@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Arjun
 
-I'm a senior Software Engineering student at San Jose State University graduating in May of 2027. I've interned at **Oracle Cloud Infrastructure** and **Cisco Systems** building agentic AI systems and full-stack tools, and I've published 4 peer-reviewed papers (IEEE x3, JSAN) on LLM-driven cybersecurity. My interests are in AI agents, backend development, and cybersecurity.
+I'm a senior Software Engineering student at San Jose State University graduating in May of 2027. I've interned at **Oracle Cloud Infrastructure** and **Cisco Systems** building agentic AI systems and full-stack tools, and I've published 4 peer-reviewed papers on LLM-driven cybersecurity. My interests are in AI agents, backend development, and cybersecurity.
 
 ## Tech Stack
 
@@ -30,4 +30,4 @@ You can find all my publications on my
 
 ## Contact
 
-I am actively looking for new grad SWE roles. Please reach out to me via email at: **[arjunsudheer05@outlook.com](mailto:arjunsudheer05@outlook.com)** or on [LinkedIn](https://www.linkedin.com/in/arjun-sudheer-20b1a0214/).
+I am actively looking for new grad SWE roles. Please reach out to on [LinkedIn](https://www.linkedin.com/in/arjun-sudheer-20b1a0214/).
